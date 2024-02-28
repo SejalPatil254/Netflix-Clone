@@ -1,7 +1,9 @@
 # Netflix-Clone
 
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
-
+- Developed a simplified streaming service clone with an intuitive scrolling interface.
+- Implemented features for users to seamlessly scroll through available content.
+- Technology Stack: React.js, HTML, CSS, JavaScript, bootstrap.
 ## 📸 Screenshots
 
 ![preview img](/Preview1.png)
